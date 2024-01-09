@@ -6,7 +6,7 @@ As most of my work unfortuanately has been closed source (😔) this is still a 
 - [categorytheory](https://github.com/nielsreijers/categorytheory) My answers so far to Bartosz Milewski's excellent [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/). As you can see I'm stuck at Adjunctions. I should pick this up again sometime.
 - [io_monad](https://github.com/nielsreijers/io_monad) A simple reimplementation of the IO Monad. Writing this really took away a lot of the mystery for me.
 
-## Acronyms of choice
+## 🗛 Acronyms of choice
 - KISS
 - DRY (when in conflict with KISS, prefer the first until n>2)
 - YAGNI
