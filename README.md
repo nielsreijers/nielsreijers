@@ -8,7 +8,7 @@
 
 [![Whatsapp](https://img.shields.io/badge/%2B886--975--140--428-whatsapp?style=flat&logo=whatsapp&logoColor=white&labelColor=%2325D366&color=grey)](https://wa.me/886975140428)
 
-[![CV](https://img.shields.io/badge/My_CV-cv?style=flat&logo=read.cv&logoColor=white&labelColor=black&color=grey)](https://nielsreijers.com/cv)
+[![CV](https://img.shields.io/badge/My_CV-cv?style=flat&logo=read.cv&logoColor=black&labelColor=white&color=grey)](https://nielsreijers.com/cv)
 
 
 <!--
