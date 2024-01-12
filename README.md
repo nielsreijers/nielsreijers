@@ -1,17 +1,17 @@
 # Hi there, I'm Niels!
 
-## 🗄 Some repository highlights
+## 🗄 &nbsp;&nbsp;&nbsp; Some repository highlights
 As most of my work unfortuanately has been closed source (😔) this is still a rather limited list.
 - [CapeVM](https://github.com/nielsreijers/capevm) The sources for my PhD research, described in my [thesis](https://tdr.lib.ntu.edu.tw/handle/123456789/1247), and this [paper](https://dl.acm.org/doi/10.1145/3274783.3274842) (requires ACM digital library access). Not very polished code, so drop me a line if you're interested in reproducing the results.
 - [categorytheory](https://github.com/nielsreijers/categorytheory) My answers so far to Bartosz Milewski's excellent [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/). As you can see I'm stuck at Adjunctions. I should pick this up again sometime.
 - [io_monad](https://github.com/nielsreijers/io_monad) A simple reimplementation of the IO Monad. Writing this really took away a lot of the mystery for me.
 
-## 🗛 Acronyms of choice
+## 🗛 &nbsp;&nbsp;&nbsp; My acronyms of choice
 - KISS
 - DRY (when in conflict with KISS, prefer the first until n>2)
 - YAGNI
 
-## 🤝 Let's Connect
+## 🤝 &nbsp;&nbsp;&nbsp; Let's Connect
 
 [![Gmail](https://img.shields.io/badge/nielsreijers%40gmail.com-gmail?style=flat&logo=gmail&logoColor=white&labelColor=%23BB001B&color=grey)](mailto:nielsreijers@gmail.com)
 
