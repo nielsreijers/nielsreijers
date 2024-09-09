@@ -7,7 +7,7 @@ As most of my work unfortuanately has been closed source (😔) this is still a 
 - [io_monad](https://github.com/nielsreijers/io_monad) A simple reimplementation of the IO Monad. Writing this really took away a lot of the mystery for me.
 
 ## 📝 &nbsp;&nbsp;&nbsp; Blog
-I recently started a blog to document my journey learning Rust, but I'm really enjoying writing these posts so I'll probably use it to vent my opinion on anything relatied to programming. 🖋️🖋️🖋️
+I recently started a blog to document my journey learning Rust, but I'm really enjoying writing these posts so I'll probably use it to vent my opinion on anything related to programming. 🖋️🖋️🖋️
 
 [https://nielsreijers.github.io](https://nielsreijers.github.io)
 
